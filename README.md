@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a>
 
 
-<h1 align="center">Hi, I'm SOL</h1>
+<h1 align="center">Hi, I am SOL</h1>
 <h3 align="center">
 </h3>
 <br /><br />
